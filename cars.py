@@ -1,8 +1,5 @@
-#######################
-wersja_pythona = 3.12 #
-#######################
+PYTHON_VERSION = 3.12 #
 
-# Potrzebne biblioteki
 import keyboard, time, os, random as r, pandas as pd
 
 car_pos = 0

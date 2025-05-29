@@ -1,2 +1,1 @@
-# CARs---Python-3.12-Game
-Python game
+# Simple CAR game in Python
