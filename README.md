@@ -10,6 +10,7 @@
   1) **Download and install packages**:
      
     pip install -r requirements.txx
+    
   or
 
     pip install pandas
