@@ -9,9 +9,13 @@
 # 2) **Installation**:
   1) **Download and install packages**:
      
-    pip install -r requirements.txx
+    pip install -r requirements.txt
     
   or
 
     pip install pandas
     pip install keyboard`
+
+  or
+
+    pip install pandas keyboard
