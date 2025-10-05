@@ -13,9 +13,4 @@
     
   or
 
-    pip install pandas
-    pip install keyboard`
-
-  or
-
     pip install pandas keyboard
